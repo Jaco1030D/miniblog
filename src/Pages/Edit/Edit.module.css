@@ -1,0 +1,26 @@
+.edit{
+    text-align: center;
+}
+
+.edit h2{
+    font-size: 2.2em;
+}
+.edit p{
+    color: #aaa;
+    margin-bottom: 2em;
+}
+
+.edit textarea{
+    resize: vertical;
+}
+
+.edit .preview_title{
+    margin-bottom: 0.2em;
+    color: black;
+    font-weight: bold;
+}
+
+.img_preview{
+    max-width: 100%;
+    margin-bottom: 1em;
+}
